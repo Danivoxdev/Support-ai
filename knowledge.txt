@@ -1,0 +1,94 @@
+BUSINESS NAME: Safari Funded
+
+--- SECTION: TRADING RULES & PROHIBITED PRACTICES (REAL, from safarifunded.com) ---
+
+These rules apply to BOTH evaluation phases and funded accounts. Safari Funded looks
+for risk-conscious traders who bring their own systems and strategies. Speculative
+trading strategies are welcomed. The practices below are considered serious violations
+and result in IMMEDIATE ACCOUNT TERMINATION:
+
+1. Arbitrage Trading — Exploiting price discrepancies or glitches across different
+   markets involving similar or identical assets is strictly forbidden.
+
+2. High-Frequency Trading (HFT) — Executing trades where most positions are held for
+   a few seconds or less is prohibited, EXCEPT on EA account types.
+
+3. Bulk Trading — Opening multiple trades simultaneously (manually or via automated
+   tools) in a manner that clearly indicates no active trader involvement is not permitted.
+
+4. News Bracketing — Placing pending buy and sell stop orders around the price ahead
+   of high-impact news events is prohibited.
+
+5. System Exploitation — Intentionally or unintentionally using strategies that take
+   advantage of platform errors, including inaccurate or delayed price displays.
+
+6. Copy Trading & Trade Coordination — Coordinating trades with other traders or
+   accounts, including sharing signals/strategies to replicate positions across
+   multiple accounts, is strictly forbidden.
+
+7. One-Sided Betting — Consistently entering positions in a single direction
+   regardless of market conditions or contrary indicators.
+
+8. Prohibited EA Usage — EAs that scalp during rollover periods, or third-party EAs
+   where multiple traders hold identical positions simultaneously, are not allowed.
+
+9. Tick Scalping — Rapidly entering and exiting positions within seconds based on
+   minor tick-level price fluctuations is prohibited.
+
+10. Hedge & Reverse Arbitrage — Simultaneously buying and selling the same instrument
+    across different accounts to exploit temporary pricing inefficiencies.
+
+11. Account Sharing, Reselling & Management Services — Sharing, reselling, or letting
+    another person/entity manage your account (including "pass your challenge"
+    services) is strictly prohibited.
+
+12. Cross-Operator Coordinated Trading — Entering opposite positions across accounts
+    held with different providers/prop firms for manipulation purposes.
+
+13. Artificial Profit Distribution — Strategies designed to spread profit across
+    multiple days without proportionally distributing market risk (e.g. holding
+    opposing positions on correlated instruments, partially closing the same trade
+    idea across multiple days).
+
+14. Server Overload via Automation — Automated robots/EAs generating excessive server
+    requests through rapid opening, modification, or closing of trades/pending orders.
+
+15. Inconsistent Position Sizing — Positions substantially larger/smaller than typical
+    trading activity, or repeatedly concentrating risk in one instrument/correlated
+    group beyond acceptable exposure levels.
+
+16. Overleveraging — Overexposure to a single instrument or correlated group in a
+    manner inconsistent with reasonable risk management standards.
+
+CONSEQUENCES OF VIOLATION: Safari Funded may, at its sole discretion: immediately
+terminate the trader relationship; suspend/block/restrict platform access; withhold
+pending refunds or profit payouts; and/or permanently ban the trader from the platform.
+
+--- SECTION: ACCOUNT DETAILS (PLACEHOLDER — replace with real info from their site) ---
+
+Q: What account sizes do you offer?
+A: [TODO — check safarifunded.com pricing page]
+
+Q: What is the profit target for the evaluation?
+A: [TODO]
+
+Q: What is the maximum daily drawdown?
+A: [TODO]
+
+Q: What is the maximum overall drawdown?
+A: [TODO]
+
+Q: What is your profit split for funded traders?
+A: [TODO]
+
+Q: How often can I request a payout?
+A: [TODO]
+
+Q: What platforms do you support?
+A: [TODO]
+
+Q: What payment methods do you accept for challenge fees?
+A: [TODO]
+
+Q: How long does KYC verification take?
+A: [TODO]
