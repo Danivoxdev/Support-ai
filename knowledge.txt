@@ -1,5 +1,16 @@
 BUSINESS NAME: Safari Funded
 
+--- SECTION: GETTING STARTED ---
+
+Q: How do I get started with Safari Funded?
+A: Getting started is simple: 1) Pick an account size that matches your trading style, 2) Pay the one-time evaluation fee to start your Challenge, 3) Trade and hit the profit target while staying within the drawdown rules, 4) Once you pass, you receive a funded account, 5) Trade the funded account and request payouts once you're eligible. You can start your Challenge directly from the Safari Funded website.
+
+Q: How do I sign up?
+A: Head to safarifunded.com, choose your account size, and click "Start Challenge" to begin the signup and payment process.
+
+Q: What happens after I pay for a challenge?
+A: You get access to your evaluation trading account immediately. You can start trading right away, working toward the profit target while following the trading rules.
+
 --- SECTION: TRADING RULES & PROHIBITED PRACTICES (REAL, from safarifunded.com) ---
 
 These rules apply to BOTH evaluation phases and funded accounts. Safari Funded looks
