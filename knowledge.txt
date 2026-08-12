@@ -64,21 +64,21 @@ CONSEQUENCES OF VIOLATION: Safari Funded may, at its sole discretion: immediatel
 terminate the trader relationship; suspend/block/restrict platform access; withhold
 pending refunds or profit payouts; and/or permanently ban the trader from the platform.
 
---- SECTION: ACCOUNT DETAILS (PLACEHOLDER — replace with real info from their site) ---
+--- SECTION: ACCOUNT DETAILS ---
 
 Q: What account sizes do you offer?
-A: [TODO — check safarifunded.com pricing page]
+A: Safari Funded offers evaluation accounts up to $25,000. [Confirmed from safarifunded.com/about — verify exact tier breakdown, e.g. whether $5K/$10K/$25K steps exist, from the pricing page]
+
+Q: What is your profit split for funded traders?
+A: Traders keep up to 80% of every profit earned. [Confirmed from safarifunded.com/about — verify if this scales up over time/consistency, as many firms do]
 
 Q: What is the profit target for the evaluation?
-A: [TODO]
+A: [TODO — check safarifunded.com pricing/challenge rules page]
 
 Q: What is the maximum daily drawdown?
 A: [TODO]
 
 Q: What is the maximum overall drawdown?
-A: [TODO]
-
-Q: What is your profit split for funded traders?
 A: [TODO]
 
 Q: How often can I request a payout?
