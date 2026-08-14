@@ -11,6 +11,44 @@ A: Head to safarifunded.com, choose your account size, and click "Start Challeng
 Q: What happens after I pay for a challenge?
 A: You get access to your evaluation trading account immediately. You can start trading right away, working toward the profit target while following the trading rules.
 
+--- SECTION: PRIVACY & DATA PROTECTION (REAL, from Safari Funded's Privacy Policy) ---
+
+Q: What personal information does Safari Funded collect?
+A: We collect identity details (name, date of birth, ID documents), contact info (address, email, phone), financial info (bank details, transaction history), verification documents for KYC (proof of address, selfies, biometric checks), technical data (IP address, device info), and trading/platform activity.
+
+Q: Why do you need my ID and personal documents?
+A: This is required for KYC (Know Your Customer) and AML (Anti-Money Laundering) compliance, which is legally mandatory for a trading company. It's used for identity verification, fraud prevention, and regulatory compliance — not optional for account approval.
+
+Q: What is Enhanced Due Diligence (EDD) and why was I asked for more documents?
+A: EDD is extra verification applied when higher-risk factors are identified — for example, if you're linked to a high-risk jurisdiction, flagged as a Politically Exposed Person (PEP), or your transactions look unusual. You may be asked for source of wealth evidence, tax filings, or additional ID documents. Not providing requested info can delay or restrict your account.
+
+Q: Do you screen customers against sanctions lists?
+A: Yes. We screen against UN, EU, UK, OFAC, and other applicable sanctions lists before and during the relationship. If sanctions concerns arise, we may restrict transactions, freeze accounts, or terminate the relationship as legally required.
+
+Q: Who do you share my data with?
+A: Service providers we work with (hosting, payment processors, KYC/compliance vendors, support tools), regulatory authorities when legally required, and professional advisers (lawyers, auditors) where necessary. All recipients must follow appropriate security/confidentiality safeguards.
+
+Q: How long do you keep my data?
+A: Only as long as necessary to provide services, meet legal/AML obligations, resolve disputes, and prevent fraud. Some data may be retained after account closure if required by law, after which it's securely deleted or anonymized.
+
+Q: Is my facial/biometric data used for anything else?
+A: No — biometric data (selfies, liveness checks) is used strictly for identity verification, fraud prevention, security, and regulatory compliance.
+
+Q: What rights do I have over my data?
+A: Subject to applicable law, you can request access to your data, correction, deletion, restriction of processing, object to processing, request data portability, withdraw consent, and lodge complaints with a supervisory authority.
+
+Q: Do you use automated decision-making?
+A: Yes, for risk assessment, fraud detection, AML monitoring, and security — based on factors like trading behavior, device info, and transaction history. You may request human review of certain automated decisions where legally required.
+
+Q: Is Safari Funded open to minors?
+A: No, services are strictly for individuals 18 years or older (or higher if required by local law).
+
+Q: Who do I contact about privacy concerns?
+A: The Data Protection Officer at info@safarifunded.com. Safari Funded Limited is registered at Kene Apartment, Zone C, Jahi, FCT, Nigeria.
+
+Q: What laws govern your data practices?
+A: Safari Funded complies with the Nigerian Data Protection Act 2023, the Nigeria Data Protection Regulation 2019, GDPR (where applicable), and relevant AML/CFT laws.
+
 --- SECTION: TRADING RULES & PROHIBITED PRACTICES (REAL, from safarifunded.com) ---
 
 These rules apply to BOTH evaluation phases and funded accounts. Safari Funded looks
@@ -75,31 +113,161 @@ CONSEQUENCES OF VIOLATION: Safari Funded may, at its sole discretion: immediatel
 terminate the trader relationship; suspend/block/restrict platform access; withhold
 pending refunds or profit payouts; and/or permanently ban the trader from the platform.
 
---- SECTION: ACCOUNT DETAILS ---
+--- SECTION: ELIGIBILITY ---
 
-Q: What account sizes do you offer?
-A: Safari Funded offers evaluation accounts up to $25,000. [Confirmed from safarifunded.com/about — verify exact tier breakdown, e.g. whether $5K/$10K/$25K steps exist, from the pricing page]
+Q: Who can join Safari Funded?
+A: You must be at least 18 years old, a natural person (not a company), have legal capacity to enter contracts in your country, and not be a resident of a sanctioned country (e.g. North Korea, Iran, Syria, Russia, Belarus, or OFAC-designated territories). Employees/affiliates of Safari Funded and traders previously terminated for misconduct are not eligible.
 
-Q: What is your profit split for funded traders?
-A: Traders keep up to 80% of every profit earned. [Confirmed from safarifunded.com/about — verify if this scales up over time/consistency, as many firms do]
+Q: Do I need to verify my identity before signing up?
+A: Safari Funded may request ID verification at any time to confirm eligibility. Failure to provide satisfactory documents can lead to suspension or termination.
+
+--- SECTION: CHALLENGE PROGRAMMES & PRICING (REAL, from Terms & Conditions) ---
+
+Q: What challenge programmes do you offer?
+A: Three programmes: Safari Evaluation (2-phase: 8% then 5% profit target, 80% profit split when funded), Safari Lite (1-phase: 10% profit target, 70% profit split), and Safari EA (2-phase, algorithmic: 8% then 5% profit target, 60% profit split, with extra EA-specific rules).
+
+Q: What account sizes and fees do you offer?
+A: Fees vary by account size and programme:
+- $3,000 — Safari Evaluation: $30
+- $5,000 — Safari Evaluation: $40, Safari Lite: $65
+- $10,000 — Safari Evaluation: $75, Safari Lite: $125, Safari EA: $95
+- $25,000 — Safari Evaluation: $189, Safari Lite: $245
+Fees are subject to change, but whatever fee you pay is honored for that challenge's duration.
 
 Q: What is the profit target for the evaluation?
-A: [TODO — check safarifunded.com pricing/challenge rules page]
+A: It depends on the programme: Safari Evaluation is 8% (Phase 1) then 5% (Phase 2); Safari Lite is 10% (single phase); Safari EA is 8% then 5%. Targets are calculated on the account's starting balance, not current equity.
 
 Q: What is the maximum daily drawdown?
-A: [TODO]
+A: Safari Evaluation and Safari Lite: 6% daily. Safari EA: 3% daily. This resets at 00:00 server time each day.
 
 Q: What is the maximum overall drawdown?
-A: [TODO]
+A: Safari Evaluation: 12%. Safari Lite: 10%. Safari EA: 6%. This does NOT reset — it applies for the account's lifetime. Drawdown is calculated on floating equity, so open losing positions count too.
+
+Q: Can I get a refund on my challenge fee?
+A: Challenge fees are non-refundable once your account is created and login details are issued — even if you haven't started trading. Exception: if your challenge account isn't delivered within 48 hours of payment, you're entitled to a full refund by contacting support@safarifunded.com.
+
+Q: Does my evaluation challenge expire?
+A: No, evaluation challenges have no expiry date — trade at your own pace until you hit the profit target or breach a drawdown limit.
+
+Q: What leverage is available?
+A: Maximum leverage of 1:50 across all account types and sizes.
+
+Q: What happens after I pass Phase 1 of a 2-phase evaluation?
+A: Your balance resets to the original starting amount and a Phase 2 account is generated automatically. Profits from Phase 1 don't carry over to Phase 2.
+
+Q: Are there minimum trading days?
+A: No minimum trading days during evaluation. On funded accounts, you need at least 3 "successful trading days" (days with net profit of 0.5%+ of starting balance) per withdrawal cycle.
+
+--- SECTION: FUNDED ACCOUNTS & PAYOUTS (REAL, from Terms & Conditions) ---
 
 Q: How often can I request a payout?
-A: [TODO]
+A: Safari Evaluation and Safari Lite: every 14 days (rolling cycle). Safari EA: every 30 days. Requests must be submitted via your trader dashboard before the cycle ends, or they roll to the next cycle.
 
-Q: What platforms do you support?
-A: [TODO]
+Q: How long does a payout take to process?
+A: Approved withdrawals are typically processed within 3–5 business days. Delays from banks/payment processors/currency conversion aren't within Safari Funded's control.
+
+Q: What is your profit split for funded traders?
+A: Safari Evaluation: 80% to trader / 20% to Safari Funded. Safari Lite: 70%/30%. Safari EA: 60%/40%. Split applies to net closed profits at withdrawal time — open floating profit isn't withdrawable.
+
+Q: Can my funded account scale up?
+A: Yes — if you profit more than 10% of your starting balance within one withdrawal cycle, your account automatically scales to the next size tier, surplus profit carries forward, a new withdrawal cycle starts, and the minimum trading days requirement resets.
+
+Q: What happens if I breach drawdown on a funded account?
+A: The funded account is permanently closed, and no payout is made for the cycle in which the breach occurred.
+
+--- SECTION: PAYMENTS, BILLING & LEGAL (REAL, from Terms & Conditions) ---
 
 Q: What payment methods do you accept for challenge fees?
-A: [TODO]
+A: Methods shown at checkout — typically debit/credit cards, bank transfer, and select cryptocurrency options. Available methods vary by country.
+
+Q: What currency are fees and payouts in?
+A: All fees, balances, profits, and withdrawals are in USD. Safari Funded isn't responsible for exchange rate or conversion fees your bank/provider charges.
+
+Q: Can I use a coupon code?
+A: Yes, where available at checkout. Codes are single-use, non-transferable, have no cash value, and only one code can be applied per purchase.
+
+Q: Do I need to pay tax on my profits?
+A: You're responsible for your own tax obligations (income tax, capital gains, etc.) in your jurisdiction. Safari Funded doesn't provide tax advice.
+
+Q: Is this real money trading or simulated?
+A: Safari Funded accounts are simulated/proprietary trading environments. This isn't investment advice, and past performance doesn't guarantee future results — there's no guarantee of passing an evaluation or earning a payout.
+
+Q: Who owns the content on your platform?
+A: All website/platform content (text, graphics, logos, software, educational material) is Safari Funded's property and may not be reproduced or commercially used without written consent.
+
+Q: How do I close my account or contact support?
+A: Email support@safarifunded.com to close your account (note: this doesn't refund any fees paid) or for any support questions.
+
+--- SECTION: ACCOUNT DETAILS (Quick Reference) ---
+
+Q: What account sizes do you offer?
+A: $3,000, $5,000, $10,000, and $25,000, depending on the programme (see Challenge Programmes & Pricing section for exact availability per plan).
 
 Q: How long does KYC verification take?
-A: [TODO]
+A: Typically 24–48 business hours. KYC is required before your first withdrawal, using a third-party verification provider. Withdrawals are held until KYC is approved.
+
+Q: What trading platforms do you support?
+A: Safari Funded's primary platform is MatchTrader — available on web (no download needed), Windows desktop, macOS desktop, and iOS/Android mobile. It includes one-click trading, advanced charting, risk management tools, and real-time drawdown tracking synced to your funded account.
+
+Q: How do I set up MatchTrader?
+A: 1) Download MatchTrader for your device, or just use the web platform at prop.safarifunded.com. 2) Select "Existing Account" and enter server: SafariFunded-Live. 3) Log in with your Account ID and password. 4) Your funded balance, drawdown levels, and trade history sync automatically.
+
+Q: Can I trade from my phone?
+A: Yes, MatchTrader is available on iOS and Android for trading on the go.
+
+--- SECTION: OFFICIAL PROGRAM COMPARISON (from Safari Funded's "Compare All Programs" page — SECONDARY SOURCE, see note) ---
+
+IMPORTANT NOTE FOR WHOEVER MAINTAINS THIS FILE: This comparison table has some numbers that differ from the "Challenge Programmes & Pricing" and "Funded Accounts & Payouts" sections earlier in this file (which came from the Terms & Conditions document, last updated June). Specifically: daily drawdown here is 4%/4%/3% vs 6%/6%/3% in the T&C; challenge fees here start "from $20/$59/$95" vs the exact T&C fee table; and EA news trading is listed as "Allowed" here vs a 2-minute restriction in the T&C. The Terms & Conditions is dated and more likely to reflect the current official rules, so the AI is instructed to prefer THOSE numbers over this table when they conflict. This comparison table is kept for reference and for anything it covers that the T&C doesn't (e.g. it's a useful side-by-side view), but treat its conflicting numbers as outdated until confirmed otherwise with Safari Funded directly.
+
+Q: Can you compare the three challenge programmes for me?
+A: Sure — here's the breakdown:
+- Safari Evaluation (2-Phase): Account sizes $3K/$5K/$10K/$25K, fee from $20, Phase 1 target 8%, Phase 2 target 5%, daily drawdown 4%, max drawdown 12%, profit split 80%, withdrawal cycle 14 days, no EA/algo allowed.
+- Safari Lite (1-Phase): Account sizes $5K/$10K/$25K, fee from $59, target 10% (single phase), daily drawdown 4%, max drawdown 10%, profit split 70%, withdrawal cycle 14 days, no EA/algo allowed.
+- Safari EA (2-Phase, Algo): Account size $10K, fee from $95, Phase 1 target 8%, Phase 2 target 5%, daily drawdown 3%, max drawdown 6%, profit split 60%, withdrawal cycle 30 days, EA/algo trading allowed.
+All three plans: 1:50 leverage, no minimum trading days during evaluation, 3 minimum trading days once funded, news trading allowed, and scaling available.
+
+Q: What's the daily drawdown limit?
+A: 4% for Safari Evaluation and Safari Lite, 3% for Safari EA.
+
+Q: What's the maximum overall drawdown?
+A: 12% for Safari Evaluation, 10% for Safari Lite, 6% for Safari EA.
+
+Q: How much does a challenge cost?
+A: Starting from $20 for Safari Evaluation, $59 for Safari Lite, and $95 for Safari EA — exact price depends on account size chosen.
+
+Q: Is news trading allowed?
+A: Yes, news trading is allowed across all three programmes.
+
+Q: Does Safari Funded offer account scaling?
+A: Yes, scaling is available on all three programmes.
+
+Q: Can I trade with an EA (Expert Advisor/algo)?
+A: Only on the Safari EA programme. Safari Evaluation and Safari Lite do not permit EA/algo trading.
+
+Note: These add to (and in a couple of cases sharpen) the rules listed in the Trading Rules section above. Violating any of these results in immediate account termination and forfeiture of pending profits, without refund of challenge fees.
+
+Q: Can someone else trade on my account for me?
+A: No — account sharing, allowing third-party access, or trading on someone else's behalf is strictly prohibited, as is selling or transferring your account to anyone.
+
+Q: What counts as tick scalping specifically?
+A: Entering and exiting positions within fewer than 5 seconds to exploit minimal price movements.
+
+Q: Is there a news trading restriction for EA accounts?
+A: Yes — for Safari EA accounts specifically, no new positions may be entered within 2 minutes before or after a high-impact economic news release.
+
+Q: Can I use a VPN to access my account?
+A: Using a VPN, proxy, or similar technology to disguise your location/identity in order to get around eligibility rules is prohibited.
+
+Q: What if my trading pattern looks suspicious but isn't explicitly listed as a rule violation?
+A: Safari Funded's risk team can review and disqualify any trading pattern they determine is designed to game the evaluation system rather than reflect genuine market participation, at their discretion.
+
+--- SECTION: TERMINATION & ACCOUNT CLOSURE (REAL, from Terms & Conditions) ---
+
+Q: Can Safari Funded terminate my account?
+A: Yes, at any time, with or without notice, if they determine you've breached the Terms, engaged in prohibited practices, provided false info, or for other reasonable discretion-based reasons.
+
+Q: What happens to pending withdrawals if my account is terminated for cause?
+A: Any pending withdrawal requests at the time of termination for cause are forfeited.
+
+Q: Can I close my own account?
+A: Yes, anytime, by emailing support@safarifunded.com. This does not entitle you to a refund of any fees already paid.
