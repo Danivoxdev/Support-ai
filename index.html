@@ -3,8 +3,17 @@
 <head>
 <meta charset="UTF-8" />
 <title>Safari Funded Support</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@600;700&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
 <style>
-  * { box-sizing: border-box; font-family: Arial, sans-serif; }
+  :root {
+    --navy: #0B0E1A;
+    --gold: #2F6FED;
+    --gold-bright: #4C8DFF;
+    --ember: #1B4F9C;
+  }
+  * { box-sizing: border-box; font-family: 'Inter', Arial, sans-serif; }
   body { margin: 0; background: #f4f4f4; }
 
   /* The floating round button */
@@ -12,18 +21,23 @@
     position: fixed;
     bottom: 20px;
     right: 20px;
-    width: 60px;
-    height: 60px;
+    width: 62px;
+    height: 62px;
     border-radius: 50%;
-    background: #1a1a2e;
-    color: white;
+    background: linear-gradient(135deg, var(--gold-bright), var(--ember));
     display: flex;
     align-items: center;
     justify-content: center;
-    font-size: 26px;
     cursor: pointer;
-    box-shadow: 0 4px 12px rgba(0,0,0,0.25);
+    box-shadow: 0 6px 20px rgba(232, 116, 47, 0.35), 0 2px 6px rgba(0,0,0,0.2);
+    transition: transform 0.18s ease, box-shadow 0.18s ease;
+    border: none;
   }
+  #bubble:hover {
+    transform: scale(1.06) translateY(-1px);
+    box-shadow: 0 8px 24px rgba(232, 116, 47, 0.45), 0 3px 8px rgba(0,0,0,0.25);
+  }
+  #bubble svg { width: 26px; height: 26px; }
 
   /* The chat window, hidden until bubble is clicked */
   #chat-window {
@@ -33,25 +47,40 @@
     width: 340px;
     height: 460px;
     background: white;
-    border-radius: 12px;
-    box-shadow: 0 8px 24px rgba(0,0,0,0.25);
+    border-radius: 16px;
+    box-shadow: 0 12px 32px rgba(0,0,0,0.3);
     display: none;
     flex-direction: column;
     overflow: hidden;
+    border: 1px solid rgba(0,0,0,0.06);
   }
 
   #chat-header {
-    background: #1a1a2e;
+    background: linear-gradient(135deg, var(--navy), #1a1f3a);
     color: white;
-    padding: 14px;
-    font-weight: bold;
+    padding: 16px 18px;
+    font-family: 'Space Grotesk', sans-serif;
+    font-weight: 700;
+    font-size: 15px;
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    border-bottom: 2px solid var(--gold);
+  }
+  #chat-header .dot {
+    width: 8px; height: 8px;
+    background: #4ADE80;
+    border-radius: 50%;
+    display: inline-block;
+    box-shadow: 0 0 6px #4ADE80;
   }
 
   #chat-messages {
     flex: 1;
-    padding: 12px;
+    padding: 14px;
     overflow-y: auto;
     font-size: 14px;
+    background: #FAFAF8;
   }
 
   .msg { margin-bottom: 12px; display: flex; }
@@ -65,8 +94,9 @@
     max-width: 80%;
     line-height: 1.5;
   }
-  .msg.user .bubble-text { background: #1a1a2e; color: white; border-bottom-right-radius: 4px; }
-  .msg.ai .bubble-text { background: #eee; color: #222; border-bottom-left-radius: 4px; }
+  .msg.user .bubble-text { background: var(--navy); color: white; border-bottom-right-radius: 4px; }
+  .msg.ai .bubble-text { background: #EFEDE7; color: #333333; border-bottom-left-radius: 4px; }
+  .msg.ai .bubble-text strong { color: #8a6a12; }
 
   .msg .bubble-text strong { font-weight: 700; }
   .msg .bubble-text ul { margin: 6px 0; padding-left: 18px; }
@@ -76,30 +106,48 @@
 
   #chat-input-row {
     display: flex;
-    border-top: 1px solid #ddd;
+    border-top: 1px solid #e8e6df;
+    background: white;
+    padding: 8px;
+    gap: 8px;
   }
   #chat-input {
     flex: 1;
-    border: none;
-    padding: 12px;
+    border: 1px solid #e0ddd3;
+    border-radius: 10px;
+    padding: 10px 14px;
     font-size: 14px;
     outline: none;
+    transition: border-color 0.15s ease;
   }
+  #chat-input:focus { border-color: var(--gold); }
   #chat-send {
     border: none;
-    background: #1a1a2e;
-    color: white;
-    padding: 0 16px;
+    background: linear-gradient(135deg, var(--gold-bright), var(--ember));
+    color: #14120A;
+    font-weight: 600;
+    font-size: 13px;
+    padding: 0 18px;
+    border-radius: 10px;
     cursor: pointer;
+    transition: opacity 0.15s ease;
   }
+  #chat-send:hover { opacity: 0.9; }
 </style>
 </head>
 <body>
 
-<div id="bubble" onclick="toggleChat()">💬</div>
+<div id="bubble" onclick="toggleChat()">
+  <svg viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <path d="M4 4h16a1 1 0 0 1 1 1v11a1 1 0 0 1-1 1H8l-4 4V6a1 1 0 0 1 1-1z" fill="#14120A"/>
+    <circle cx="8" cy="10.5" r="1.1" fill="#4C8DFF"/>
+    <circle cx="12" cy="10.5" r="1.1" fill="#4C8DFF"/>
+    <circle cx="16" cy="10.5" r="1.1" fill="#4C8DFF"/>
+  </svg>
+</div>
 
 <div id="chat-window">
-  <div id="chat-header">Safari Funded Support</div>
+  <div id="chat-header"><span class="dot"></span>Safari Funded Support</div>
   <div id="chat-messages"></div>
   <div id="chat-input-row">
     <input id="chat-input" placeholder="Ask a question..." onkeypress="if(event.key==='Enter') sendMessage()" />
